@@ -1,3 +1,9 @@
+/*
+Objetivo: 
+Un programa que ingrese datos a una matriz sobre titulos y autores de libros
+y que sea capaz de imprimir la matriz una vez todos los datos se hayan ingresado
+*/
+
 #include <iostream>
 #include <cstring>
 using namespace std;
